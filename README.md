@@ -156,6 +156,3 @@ git push -u origin main
 
 Replace `YOUR_USERNAME` with your GitHub username.
 
-## License
-
-Choose a license before publishing publicly. MIT is a common option for portfolio projects; only add it if you want to grant the permissions it describes.
